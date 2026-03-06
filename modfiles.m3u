@@ -6,6 +6,13 @@
 
 #EXTINF:-1 group-logo="https://logos-world.net/wp-content/uploads/2021/12/SporTV-Logo.png"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G2z71Wr.png" group-title="Sports Channel", UFC Paramount FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G2z71Wr.png" group-title="Sports Channel", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1514,5 +1521,3 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-
